@@ -1,6 +1,6 @@
 # React Discord Clone
 
-> Functional Discord Clone using React, Socket IO, NodeJS, Express and MySQL
+> Functional Discord Clone using , NodeJS, Express and MySQL
 
 Currently learning WebRTC to implement voice!
 
